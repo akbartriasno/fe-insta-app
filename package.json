@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akbar Triasno S.",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "webpack": "^5.71.0"
+  }
 }
